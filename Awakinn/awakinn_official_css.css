@@ -1,0 +1,25 @@
+body{ background-color: black; }
+
+
+/*navbar*/
+.navbar{ background-color: #404040; }
+.navbar-brand{ color: #fffff7; }
+.navbar-toggler{ background-color: black; }
+
+
+/*Become a coder a right way*/
+#become{ padding-top: 15%; }
+#become h1{ color:#fffff7; }
+#become p{ text-align: center;color: #fffff7; }
+#button_1{ font-family: 'Overpass';color: #fffff7;font-size: 15px;border-radius: 20px;border:1px solid orange; }
+
+
+ /*Awakinn hub*/
+ .nav-item:hover{ border-bottom: 2px solid orange; }
+        .navbar-nav li a:hover{ color: orange; scroll-behavior: smooth; }
+
+
+.card:hover{
+	transform: translateY(-5px);
+}
+
